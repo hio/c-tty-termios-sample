@@ -1,0 +1,6 @@
+syntax: glob
+
+*.o
+*.swp
+.git
+prog
